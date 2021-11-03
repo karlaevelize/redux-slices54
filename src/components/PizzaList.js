@@ -1,4 +1,4 @@
-//TO DO IN THIS LECTURES
+//TO DO IN THIS LECTURE
 //1. Write a selector for user and all pizzas
 //2. Display the user and the pizzas on the screen
 //3. Write a form to add a pizza and add local state

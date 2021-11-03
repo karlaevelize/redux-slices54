@@ -1,6 +1,6 @@
 ## Redux Terms
 
-User -> Dispatch Action -> To the Reducer -> Reducer Updates the state -> Write a elector || UI gets updates
+User -> Dispatch Action -> To the Reducer -> Reducer Updates the state -> Write a selector (if you don't have one yet) || UI gets updated
 
 ### Actions
 
@@ -23,6 +23,8 @@ User -> Dispatch Action -> To the Reducer -> Reducer Updates the state -> Write 
 - Always return the same value given the same arguments
 - It doesn't rely on variables outside the function
 - It doesn't change any variable outside the function
+
+### General
 
 - store: a collection of states / app state, global state
 - dispatch: dispatch an actions
